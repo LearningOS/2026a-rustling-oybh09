@@ -14,8 +14,9 @@
 
 #[cfg(test)]
 mod tests {
+    use::super::*;
     #[test]
     fn you_can_assert() {
-        assert!();
+        assert!(,);
     }
 }
