@@ -10,13 +10,14 @@
 // Execute `rustlings hint tests1` or use the `hint` watch subcommand for a
 // hint.
 
-// I AM NOT DONE
-
+pub fn xx()->bool{
+    true
+}
 #[cfg(test)]
 mod tests {
-    use::super::*;
+    use super::*;
     #[test]
     fn you_can_assert() {
-        assert!(,);
+        assert!(xx());
     }
 }
