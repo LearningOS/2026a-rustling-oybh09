@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-oybh09",
-  "commit": "da0224c0ec488c0ea9e39fbd99e27c8f391e1a37",
-  "score": 87,
+  "commit": "1f7b6365307aa4927b72c07330ff765b746c94a6",
+  "score": 89,
   "totalScore": 110,
   "exercises": [
     {
@@ -618,16 +618,16 @@
     {
       "name": "clippy1",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "clippy2",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "clippy3",
@@ -778,9 +778,9 @@
     }
   ],
   "student": "oybh09",
-  "runId": "40800541833",
+  "runId": "40804855451",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
